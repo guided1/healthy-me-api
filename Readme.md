@@ -1,6 +1,6 @@
 # Vagrant setup for node based projects
 
-Make sure you have vagrant installed
+Make sure you have vagrant and virtual box installed
 
 ## To use:
 
