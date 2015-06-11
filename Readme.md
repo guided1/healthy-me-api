@@ -7,4 +7,5 @@ Make sure you have vagrant installed
 ```bash
 git clone https://github.com/guided1/vagrant-node.git
 mkdir source
-vagrant up```
+vagrant up
+```
